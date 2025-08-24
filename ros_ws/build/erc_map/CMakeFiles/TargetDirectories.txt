@@ -1,0 +1,9 @@
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/build/erc_map/CMakeFiles/uninstall.dir
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/build/erc_map/CMakeFiles/erc_map_uninstall.dir
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/build/erc_map/CMakeFiles/test.dir
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/build/erc_map/CMakeFiles/edit_cache.dir
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/build/erc_map/CMakeFiles/rebuild_cache.dir
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/build/erc_map/CMakeFiles/list_install_components.dir
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/build/erc_map/CMakeFiles/install.dir
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/build/erc_map/CMakeFiles/install/local.dir
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/build/erc_map/CMakeFiles/install/strip.dir

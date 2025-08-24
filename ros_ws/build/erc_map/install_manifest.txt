@@ -1,0 +1,16 @@
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/install/erc_map/share/ament_index/resource_index/package_run_dependencies/erc_map
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/install/erc_map/share/ament_index/resource_index/parent_prefix_path/erc_map
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/install/erc_map/share/erc_map/environment/ament_prefix_path.sh
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/install/erc_map/share/erc_map/environment/ament_prefix_path.dsv
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/install/erc_map/share/erc_map/environment/path.sh
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/install/erc_map/share/erc_map/environment/path.dsv
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/install/erc_map/share/erc_map/local_setup.bash
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/install/erc_map/share/erc_map/local_setup.sh
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/install/erc_map/share/erc_map/local_setup.zsh
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/install/erc_map/share/erc_map/local_setup.dsv
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/install/erc_map/share/erc_map/package.dsv
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/install/erc_map/share/ament_index/resource_index/packages/erc_map
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/install/erc_map/share/erc_map/cmake/ament_cmake_export_dependencies-extras.cmake
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/install/erc_map/share/erc_map/cmake/erc_mapConfig.cmake
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/install/erc_map/share/erc_map/cmake/erc_mapConfig-version.cmake
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/install/erc_map/share/erc_map/package.xml
