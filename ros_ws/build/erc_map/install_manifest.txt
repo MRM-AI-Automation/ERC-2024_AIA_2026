@@ -1,3 +1,4 @@
+/media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/install/erc_map/share/erc_map/launch/gazeboModel.launch.py
 /media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/install/erc_map/share/ament_index/resource_index/package_run_dependencies/erc_map
 /media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/install/erc_map/share/ament_index/resource_index/parent_prefix_path/erc_map
 /media/exhausted/DATA DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/install/erc_map/share/erc_map/environment/ament_prefix_path.sh

@@ -1,0 +1,6 @@
+[31mCMake Error at cmake_install.cmake:46 (file):
+  file INSTALL cannot find "/media/exhausted/DATA
+  DRIVE/stuff/mrm/ERC-2025/gitstuff/ERC-2024_AIA_2026/ros_ws/src/erc_map/model":
+  No such file or directory.
+
+[0m
